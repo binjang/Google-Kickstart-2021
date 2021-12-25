@@ -14,3 +14,10 @@ This is a collection of my Google Kickstart 2021 competitive submissions.
 2. [Festival](https://github.com/binjang/Google-Kickstart-2021/blob/main/2021F_2.py): TLE on Set 2
 3. Star Trappers: Not attempted
 4. Primes and Queries: Not attempted
+
+## Round G (9/18/2021) (18 / 100 pts, rank #2714)
+
+1. [Dogs and Cats](https://github.com/binjang/Google-Kickstart-2021/blob/main/2021G_1.py): AC
+2. [Staying Hydrated](https://github.com/binjang/Google-Kickstart-2021/blob/main/2021G_2.py): TLE on Set 2
+3. Banana Bunches: Not attempted
+4. Simple Polygon: Not attempted
